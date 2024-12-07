@@ -8,7 +8,7 @@
 
 <br>
 
-## ✨ planning intention
+## ✨ Planning intention
 
  When signs have small tapes or falling leaves on them, AI may misrecognize them. Then, is it the responsibility of the company or the driver for the damage caused by AI's misrecognition of signs in an autonomous driving environment?"
 With the recent development of artificial intelligence in various fields, the damage caused by artificial intelligence is also increasing. In particular, in autonomous driving situations, artificial intelligence misrecognition and misclassification can cause fatal accidents. In the current situation where driver intervention is required due to the incomplete autonomous driving technology, it is still the responsibility of the autonomous car manufacturer, or the company, to determine whether such an accident is due to the carelessness of the driver or the responsibility of the autonomous car manufacturer
@@ -17,6 +17,21 @@ Against this backdrop, the team planned an autonomous sign misrecognition verifi
 
 
 Klaxon, which means a horn, plays a role in recognizing and coping with surrounding situations. Like the meaning of klaxon, we hope that our service will quickly recognize the accident situation caused by AI's misrecognition and misclassification of signs and help reduce disputes by enhancing mutual understanding between companies and drivers.
+
+<br>
+
+## ✅ Implementation Key Features
+- Check sign misclassification in real time
+- Inquiry of top3 for misclassified risk areas
+- an autonomous driving community
+- Raspberry Car Implements Self-Driving Capabilities
+
+<br>
+
+
+## 🫧 Project Flowchart
+<br>
+
 
 
 ## ⚙️ Architecture
@@ -58,7 +73,7 @@ Klaxon, which means a horn, plays a role in recognizing and coping with surround
 |                                   Jaeeun Oak<br/>([@Jaen-923](https://github.com/jaen-923))                                    |                                      Yeeun Pyo<br/>([@yeuuni](https://github.com/yeuuni))                                       |                                      Seoyoung Shin<br/>([@Seooyooungg](https://github.com/Seooyooungg))                                       |                                      Minkyung Park<br/>([@BlueofJ]([https://github.com/member4](https://github.com/BlueofJ)))                                       |
 |:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
 | <img width="200px" src="https://avatars.githubusercontent.com/u/113357550?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/142524724?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/151813830?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/150569343?v=4"/> |
-|                                                      FE, BE, AI<br/>                                                     |                                               PM, BE, FE                                              |                                               Design, FE, AI                                              |                                               Raspi, AI                                              |
+|                                                      FE, BE, AI<br/>                                                     |                                               PM, BE, FE                                              |                                               Design, FE, AI                                              |                                               Raspi, AI, FE                                              |
 
 
 <br>
