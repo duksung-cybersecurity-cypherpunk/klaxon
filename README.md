@@ -2,26 +2,18 @@
 
 <img src="https://github.com/AAA-klaxon/klaxon-Server/blob/dev/assets/logo.png" width =20% ><br>
 > Duksung Women's University Intelligence Security Project 2 (Capstone Design)
-<br> Project name: klaxon
+<br> Project name: klaxon(https://github.com/AAA-klaxon)
 <br> Project Description: App service that enables real-time misclassification of traffic signs
 <br> Development Period: 2024.01~2024.11
 
 <br>
 
 
-## 🤗 Team member
-|                                   Jaeeun Oak<br/>([@Jaen-923](https://github.com/jaen-923))                                    |                                      Yeeun Pyo<br/>([@yeuuni](https://github.com/yeuuni))                                       |                                      Seoyoung Shin<br/>([@Seooyooungg](https://github.com/Seooyooungg))                                       |                                      Minkyung Park<br/>([@BlueofJ]([https://github.com/member4](https://github.com/BlueofJ)))                                       |
-|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
-| <img width="200px" src="https://avatars.githubusercontent.com/u/113357550?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/142524724?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/151813830?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/150569343?v=4"/> |
-|                                                      FE, BE, AI<br/>                                                     |                                               PM, BE, FE                                              |                                               Design, FE, AI                                              |                                               Raspi, AI                                              |
-
-
-<br>
-
-
 ## ⚙️ Architecture
 
-<img src="https://github.com/AAA-klaxon/klaxon-Server/blob/dev/assets/logo.png" width =20% >
+<img src="https://github.com/duksung-cybersecurity-cypherpunk/klaxon/blob/main/Project%20Architecture.png" >
+
+<br>
 
 
 
@@ -50,3 +42,13 @@
 ### AI
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/YOLOv5-006400?style=for-the-badge&logo=YOLO&logoColor=white"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
 
+<br>
+
+## 🤗 Team member
+|                                   Jaeeun Oak<br/>([@Jaen-923](https://github.com/jaen-923))                                    |                                      Yeeun Pyo<br/>([@yeuuni](https://github.com/yeuuni))                                       |                                      Seoyoung Shin<br/>([@Seooyooungg](https://github.com/Seooyooungg))                                       |                                      Minkyung Park<br/>([@BlueofJ]([https://github.com/member4](https://github.com/BlueofJ)))                                       |
+|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| <img width="200px" src="https://avatars.githubusercontent.com/u/113357550?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/142524724?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/151813830?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/150569343?v=4"/> |
+|                                                      FE, BE, AI<br/>                                                     |                                               PM, BE, FE                                              |                                               Design, FE, AI                                              |                                               Raspi, AI                                              |
+
+
+<br>
