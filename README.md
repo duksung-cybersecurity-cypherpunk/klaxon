@@ -41,20 +41,20 @@ Klaxon, which means a horn, plays a role in recognizing and coping with surround
 ## 🫧 Project Flowchart
 <img src="https://github.com/duksung-cybersecurity-cypherpunk/klaxon/blob/main/flowchart.png" >
 
-1. Traffic Sign Recognition with YOLOv5 on Raspberry Pi
-Use YOLOv5 for real-time detection of traffic signs on the Raspberry Pi.
+1. Recognize signs using YOLOv5 in Raspberry Pi
+Raspberry Pi uses the YOLOv5 model to recognize signs in real time.
 
-2. PGD Attack on AI Server
-Perform a Projected Gradient Descent (PGD) attack on the AI server to simulate misclassification and test the robustness of the AI model.
+2. Performing PGD Attacks on AI Servers
+We perform a Projected Gradient Descent (PGD) attack on an AI server to induce misrecognition of AI models and test their robustness.
 
-3. Traffic Sign Classification with CNN
-Utilize a Convolutional Neural Network (CNN) to classify the detected traffic signs.
+3. Using CNN to sort signs
+We use convolutional neural networks (CNNs) to classify the recognized signs.
 
-4. Data Storage in API Server
-Store the classification results and related data in the API server for further processing.
+4. Store data on API server
+Store the classified results and related data on the API server for further processing.
 
-5. Data Transmission to Mobile App via API
-Deliver the stored data from the API server to the mobile application for user access and interaction.
+5. Data transfer from API server to mobile app
+It delivers stored data from API servers to mobile apps, allowing users to access and interact.
 
 <br>
 
