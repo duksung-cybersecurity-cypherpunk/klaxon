@@ -8,7 +8,7 @@
 
 <br>
 
-## ✨ Introduction to the Project
+## ✨ planning intention
 
  When signs have small tapes or falling leaves on them, AI may misrecognize them. Then, is it the responsibility of the company or the driver for the damage caused by AI's misrecognition of signs in an autonomous driving environment?"
 With the recent development of artificial intelligence in various fields, the damage caused by artificial intelligence is also increasing. In particular, in autonomous driving situations, artificial intelligence misrecognition and misclassification can cause fatal accidents. In the current situation where driver intervention is required due to the incomplete autonomous driving technology, it is still the responsibility of the autonomous car manufacturer, or the company, to determine whether such an accident is due to the carelessness of the driver or the responsibility of the autonomous car manufacturer
