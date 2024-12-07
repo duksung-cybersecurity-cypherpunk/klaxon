@@ -8,6 +8,16 @@
 
 <br>
 
+## ✨ Introduction to the Project
+
+ When signs have small tapes or falling leaves on them, AI may misrecognize them. Then, is it the responsibility of the company or the driver for the damage caused by AI's misrecognition of signs in an autonomous driving environment?"
+With the recent development of artificial intelligence in various fields, the damage caused by artificial intelligence is also increasing. In particular, in autonomous driving situations, artificial intelligence misrecognition and misclassification can cause fatal accidents. In the current situation where driver intervention is required due to the incomplete autonomous driving technology, it is still the responsibility of the autonomous car manufacturer, or the company, to determine whether such an accident is due to the carelessness of the driver or the responsibility of the autonomous car manufacturer
+It remains an unresolved issue.
+Against this backdrop, the team planned an autonomous sign misrecognition verification app, "Claction," to coordinate the positions of drivers and companies and quickly identify the accident situation.
+
+
+Klaxon, which means a horn, plays a role in recognizing and coping with surrounding situations. Like the meaning of klaxon, we hope that our service will quickly recognize the accident situation caused by AI's misrecognition and misclassification of signs and help reduce disputes by enhancing mutual understanding between companies and drivers.
+
 
 ## ⚙️ Architecture
 
