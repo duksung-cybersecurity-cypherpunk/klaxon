@@ -54,7 +54,7 @@ Klaxon, which means a horn, plays a role in recognizing and coping with surround
 ### BE
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express.js&logoColor=black"> <img src="https://img.shields.io/badge/Babel-FFEB3B?style=for-the-badge&logo=babel&logoColor=black"> <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/bcryptjs-9B59B6?style=for-the-badge&logo=bcrypt&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtoken-000000?style=for-the-badge&logo=JSONWebToken&logoColor=white">
-<img src="https://img.shields.io/badge/cors-2E8B57?style=for-the-badge&logo=cors&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 
 
