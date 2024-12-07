@@ -21,6 +21,8 @@
 
 ## ⚙️ Architecture
 
+<img src="https://github.com/AAA-klaxon/klaxon-Server/blob/dev/assets/logo.png" width =20% >
+
 
 
 ## 🛠 TECH STACK
