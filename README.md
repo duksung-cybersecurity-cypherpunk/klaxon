@@ -31,11 +31,6 @@ Klaxon, which means a horn, plays a role in recognizing and coping with surround
 <br>
 
 
-## 🫧 Project Flowchart
-<br>
-
-
-
 ## ⚙️ Architecture
 
 <img src="https://github.com/duksung-cybersecurity-cypherpunk/klaxon/blob/main/Project%20Architecture.png" >
